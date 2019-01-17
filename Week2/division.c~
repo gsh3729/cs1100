@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+ int a,b,quo,rem,rv;
+ printf(" enter the numbers");
+ scanf("%d%d",&a,&b);
+ quo=a/b;
+ rem=a%b;
+ if((2*rem)<b)
+ rv=quo;
+ else 
+ rv=quo+1;
+ printf("answer is %d\n",rv);
+}

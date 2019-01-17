@@ -1,0 +1,32 @@
+#include<stdio.h>
+void Tower(int, int, int);
+void main()
+{  
+  int n,i=0,j;
+  printf("Enter the number of discs");
+  scanf("%d", &n);
+  if (n <=0)
+  {   
+   printf("no discs to move!\n");
+   return;
+  }
+  printf("sequence of disc movements\n");
+  j=(i+1)%3;
+  Tower(n, i, j);
+}
+  
+  void Tower(int n, int i, int j )
+  {
+   if(n==1)
+   { 
+    printf("move the disc from P%d to P%d\n",i,(i+1)%3);
+   }
+   else
+   {
+    Tower(n-1, i, (i+1)%3);
+    Tower(n-1, (i+1)%3, (i+2)%3);
+    printf("move the disc from P%d to P%d\n",i,(i+1)%3);
+    Tower(n-1, (i+2)%3, i);
+    Tower(n-1, i, (i+1)%3);
+   }
+  } 

@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+ flaot x=1.414;
+ printf("%f\n",x);
+ return 0;
+}

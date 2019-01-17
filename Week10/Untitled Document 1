@@ -1,0 +1,48 @@
+
+
+
+#include<stdio.h>
+#include<ctype.h>
+#include<string.h>
+int main()
+{
+ FILE *ptr;
+ int found=0,i;
+ char str[101],srh[21],fn[15],*pt;
+ printf("Enter the file name:");
+ scanf("%s",fn);
+ if(!(ptr=fopen(fn,"r")))
+ {
+  printf("Sorry the file can'\t be opened");
+  return 1;
+ }
+ else
+ {
+  printf("Enter the substring to search for(max 20 characters):");
+  scanf("%s",srh);
+  for(i=0;i<strlen(srh);i++)
+   if(!isalnum(srh[i]))
+   {
+    printf("Sorry the entered string to search contains non-alphanumeric characters"); 
+    return 0;
+   }
+  while(fscanf(ptr,"%s",str)!=EOF)
+  {
+   if(pt=strstr(str,srh))
+   {
+    found++;
+    break;
+   }
+  }
+  if(found)
+   printf("The substring has been found in the file contained in the word \"%s\"\n",str);
+  else
+   printf("Sorry the entered substring isn\'t present in the string\n");
+  fclose(ptr);
+ }
+ return 0;
+}
+ 
+
+search_file1.c
+Displaying search_file1.c.

@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main()
+{
+ int x,y;
+ printf("enter two numbers:");
+ scanf("%d%d",&x,&y);
+ if(x%2==0)
+ { if(y%2==0)
+   printf("sum is even\n");
+   else 
+   printf("sum is odd\n");
+ }
+ else 
+ { if (y%2!=0)
+   printf("sum is even");
+   else 
+   printf("sum is odd");
+ }
+ return 0;
+}

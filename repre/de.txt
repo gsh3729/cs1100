@@ -1,0 +1,113 @@
+111501018: DEEKSHITH P                        : Bio 33: Phy 32: Che 48:
+111601001: AMIT VIKRAM SINGH                  : Bio 47: Phy 43: Che 43:
+111601002: ARKO SHARMA                        : Bio 32: Phy 31: Che 37:
+111601003: CHIRITHOTI SAI VENKAT NIKHIL       : Bio 50: Phy 40: Che 35:
+111601004: DIDLA SUDHEER                      : Mat 48: Phy 40: Che 42:
+111601005: GADDIPATI SRIHARSHA                : Bio 46: Phy 42: Che 32:
+111601006: GUJJULA BADRINATH REDDY            : Bio 47: Phy 38: Che 38:
+111601007: ISHAN GADGIL                       : Bio 36: Phy 44: Che 37:
+111601008: KAUSHAL KISHORE                    : Mat 35: Phy 34: Che 50:
+111601009: KULDEEP SINGH BHANDARI             : Mat 40: Phy 42: Che 43:
+111601010: KURAPATI VAMSI PRAMOD              : Bio 39: Phy 50: Che 41:
+111601012: VISHNU KANTH REDDY N V S           : Mat 40: Phy 46: Che 31:
+111601013: NIKHIL KUMAR YADAV                 : Mat 36: Phy 34: Che 49:
+111601014: PANKAJ KUMAR                       : Mat 46: Phy 42: Che 32:
+111601015: PATRICK GEORGE                     : Bio 39: Phy 39: Che 35:
+111601016: PRABHJOT SINGH                     : Bio 31: Phy 41: Che 44:
+111601017: RAJENDRA SINGH                     : Mat 45: Phy 35: Che 35:
+111601018: ROSHIN RAPHEL                      : Bio 42: Phy 47: Che 34:
+111601019: SACHIN HANSDA                      : Bio 47: Phy 36: Che 50:
+111601020: SAPTADEEP DAS                      : Mat 39: Phy 42: Che 48:
+111601021: SATVIK CHOUDHARY                   : Bio 32: Phy 38: Che 45:
+111601022: SHAIK MUHAMMAD MUSTAFA SHARIEF     : Mat 48: Phy 46: Che 40:
+111601023: SHIV KUMAR SUTHAR                  : Bio 39: Phy 44: Che 49:
+111601024: SHUBHAM GUPTA                      : Bio 40: Phy 42: Che 39:
+111601025: SOURABH AGGARWAL                   : Mat 34: Phy 35: Che 34:
+111601026: SPARSH JAIN                        : Bio 31: Phy 49: Che 37:
+111601027: SURENDRA BASKEY                    : Mat 39: Phy 49: Che 39:
+111601028: VALLALA VISHNU TEJA                : Bio 47: Phy 48: Che 48:
+111601029: VENKAT SAI AKASH CHEERLA           : Mat 34: Phy 34: Che 41:
+111601030: VISMAY RAJ.T                       : Mat 36: Phy 50: Che 43:
+121601001: ANJALI AGARWAL                     : Mat 50: Phy 41: Che 36:
+121601002: ANNEPOGU SUMANTH PAUL              : Mat 33: Phy 37: Che 40:
+121601003: ARJUN DEV                          : Mat 38: Phy 35: Che 48:
+121601004: AYISHWARAYA A                      : Bio 42: Phy 35: Che 39:
+121601005: AYUSH JAIN                         : Mat 34: Phy 39: Che 50:
+121601006: BADHIREDDY SAI VIDYANANDA REDDY    : Mat 33: Phy 39: Che 31:
+121601007: BALU V                             : Bio 32: Phy 41: Che 36:
+121601008: DEEPAK MEENA                       : Bio 36: Phy 41: Che 49:
+121601009: GUNTREDDI NITHIN                   : Mat 37: Phy 47: Che 35:
+121601011: HIMANSHU RAI                       : Mat 47: Phy 36: Che 39:
+121601012: IPSITA SINGH                       : Mat 48: Phy 49: Che 35:
+121601013: KHETAWAT SURESH RAMESH             : Mat 47: Phy 35: Che 31:
+121601014: LOKESH MEENA                       : Mat 41: Phy 50: Che 50:
+121601015: MAGATHOTI DILEEPKUMAR              : Mat 42: Phy 42: Che 44:
+121601016: MAHAJAN SAISUCHITH PRAVEEN         : Bio 45: Phy 41: Che 44:
+121601017: MANOJ KUMAR S                      : Mat 32: Phy 34: Che 50:
+121601018: NANDALA ABHINAV                    : Bio 44: Phy 47: Che 50:
+121601019: NAVEEN V                           : Bio 46: Phy 39: Che 41:
+121601020: PHULE ANISH SUNIL                  : Mat 31: Phy 37: Che 35:
+121601021: RAJU RANJAN KUMAR                  : Mat 33: Phy 35: Che 47:
+121601022: SACHIN RUSTAGI                     : Mat 47: Phy 38: Che 36:
+121601023: SAKSHAM SAKSHAM                    : Bio 43: Phy 49: Che 38:
+121601024: SHAIKH AFROZ ARSHAD                : Mat 40: Phy 43: Che 50:
+121601025: SHRUTI BHAGWATE                    : Mat 38: Phy 41: Che 33:
+121601026: VIKAS BHARTI                       : Mat 43: Phy 32: Che 44:
+121601027: VISHAL CHOUDHARI                   : Bio 50: Phy 46: Che 50:
+121601028: VISHNU VAIDYA                      : Bio 42: Phy 35: Che 50:
+131601001: ADARSH SINGPURI                    : Mat 39: Phy 38: Che 36:
+131601002: AKHILESH A S                       : Bio 49: Phy 41: Che 35:
+131601003: AMAN SHARMA                        : Mat 40: Phy 35: Che 33:
+131601004: ANANTHAKRISHNAN ANANTHAKRISHNAN    : Mat 35: Phy 32: Che 41:
+131601005: ANIMESH RAIKWAR                    : Mat 41: Phy 43: Che 43:
+131601006: ARJUN THANGARAJ R                  : Bio 50: Phy 36: Che 33:
+131601007: ARPIT SINGH                        : Mat 44: Phy 33: Che 49:
+131601008: ASHWIN K RAGHU                     : Mat 41: Phy 41: Che 35:
+131601009: BHANU PRAKASH KOMPELLY             : Bio 47: Phy 32: Che 50:
+131601010: EDUPUGANTI VINAY                   : Mat 35: Phy 46: Che 45:
+131601011: GANNAVARAPU NAGA SRIHARI           : Bio 47: Phy 40: Che 44:
+131601012: GOKUL R                            : Mat 33: Phy 46: Che 31:
+131601013: GOVINDA BAKNA                      : Bio 36: Phy 35: Che 44:
+131601014: JEYARAM R                          : Bio 44: Phy 38: Che 35:
+131601015: JITHIN LAL PRADEEP K               : Bio 50: Phy 45: Che 37:
+131601016: KAUSADIKAR VARAD PRASHANT          : Mat 37: Phy 33: Che 33:
+131601017: KHAWASE CHAITANYA AJAY             : Mat 39: Phy 32: Che 33:
+131601018: KOTTURI SAI NIKHIL                 : Mat 39: Phy 40: Che 43:
+131601019: MANISH KUMAR                       : Mat 39: Phy 49: Che 47:
+131601020: MELVIN M SUNNY                     : Bio 44: Phy 39: Che 34:
+131601021: NIDHI NIDHI                        : Bio 45: Phy 39: Che 41:
+131601022: PATEL KETAN UMEDBHAI               : Bio 40: Phy 37: Che 39:
+131601024: ROHIT KUMAR                        : Mat 48: Phy 37: Che 39:
+131601025: SANJAY PRADEEP                     : Bio 44: Phy 41: Che 34:
+131601026: SHANTANU BHARATIA                  : Bio 43: Phy 48: Che 44:
+131601027: SHUBHAM SHUBHAM                    : Mat 47: Phy 36: Che 43:
+131601028: TALABATTULA JAYARAM                : Bio 40: Phy 39: Che 48:
+131601029: UTSAV KHAITAN                      : Mat 32: Phy 31: Che 45:
+131601030: VISHAL KUMAR                       : Mat 38: Phy 35: Che 39:
+101601001: ABHISHEK BAGRI                     : Bio 46: Phy 37: Che 48:
+101601002: ADITYA KUMAR YADAV                 : Bio 43: Phy 46: Che 37:
+101601003: AMIT KUMAR                         : Bio 38: Phy 32: Che 33:
+101601004: BALRAM KUMAR                       : Mat 37: Phy 50: Che 34:
+101601005: BOGUDAMEEDI VENKATA SAI PRASAD     : Mat 47: Phy 37: Che 43:
+101601006: CHILUVERU APOORVA                  : Bio 40: Phy 39: Che 38:
+101601007: DEEPAK KUMAR                       : Mat 34: Phy 41: Che 33:
+101601008: DHARMA RAM MEGHWAL                 : Bio 33: Phy 46: Che 40:
+101601009: GAURAV GAURAV                      : Mat 38: Phy 49: Che 40:
+101601010: GOPAL KARWA                        : Bio 33: Phy 47: Che 42:
+101601011: GYAN RANJAN ROUT                   : Bio 50: Phy 44: Che 32:
+101601012: HARSHVARDHAN SINGH                 : Mat 35: Phy 48: Che 49:
+101601013: INGE SAURABH NARENDRA              : Bio 37: Phy 41: Che 44:
+101601014: KASARA SREE TEJ REDDY              : Bio 44: Phy 31: Che 47:
+101601016: MARK NARI LINGFA                   : Mat 32: Phy 41: Che 47:
+101601017: PATHAKOTA PRANAVI                  : Bio 38: Phy 36: Che 35:
+101601018: PIYUSH DHAKAD                      : Mat 40: Phy 36: Che 37:
+101601019: PONNAMALLA ANKITH SURYA            : Bio 46: Phy 48: Che 35:
+101601020: RAJAPANTULA ANUDEEP                : Mat 38: Phy 36: Che 45:
+101601021: SANU RAJ                           : Mat 41: Phy 35: Che 34:
+101601022: SHREYASH SHUKLA                    : Bio 49: Phy 39: Che 47:
+101601023: SHYAM SUNDAR GOYAL                 : Mat 42: Phy 35: Che 34:
+101601024: SONU MITTAL                        : Mat 31: Phy 50: Che 43:
+101601025: THAVVA CHAITANYA REDDY             : Mat 43: Phy 39: Che 50:
+101601026: VIVEK TV                           : Mat 50: Phy 37: Che 45:
+101601027: WADIKAR SAURAV BALAJI              : Bio 49: Phy 41: Che 45:
+

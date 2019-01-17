@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main()
+{
+ int i,sum=2,n,a[100];
+ a[0]=1;
+ a[1]=1;
+ printf("enter n:");
+ scanf("%d",&n);
+ for(i=2;i<(n+2);i++)
+ {
+  a[i]=a[i-1]+a[i-2];
+  if(i<n)
+  sum+=a[i];
+ }
+ printf("sum is %d\nn+2th term is %d\n",sum,a[n+1]);
+}
+ 
+  

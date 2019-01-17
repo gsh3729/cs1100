@@ -1,0 +1,93 @@
+#include <stdio.h>
+int main()
+{
+ int a[500][500],b[500][500],d[500][500],i,j;
+ int w1,h1,M;
+ int w2,h2;
+ int success;
+ char c[2],file1[20],file2[20],file3[20];
+
+ FILE *p1,*p2,*p3;
+
+ printf("enter the first file name");
+ scanf("%s",file1);
+  
+ printf("enter the second file name");
+ scanf("%s",file2);
+ 
+ p1=fopen(file1,"r");
+
+ if(p1==0)
+ { 
+  printf("error in opening\n");
+  return(1);
+ }
+
+ fscanf(p1,"%s%d%d%d",c,&w1,&h1,&M);
+ 
+ for(i=0;i<h1;i++)
+ {
+    for(j=0;j<w1;j++)
+    {
+     fscanf(p1, "%d", &a[i][j]);
+     printf("%d\t",a[i][j]);
+    }
+    printf("\n");
+ }
+
+ fclose(p1);
+ 
+ p2=fopen(file2,"r");
+
+ if(p2==0)
+ { 
+  printf("error in opening\n");
+  return(1);
+ }
+
+ fscanf(p2,"%s%d%d%d",c,&w2,&h2,&M);
+
+ for(i=0;i<h1;i++)
+ {
+    for(j=0;j<w1;j++)
+    {
+     fscanf(p1, "%d", &b[i][j]);
+     printf("%d\t",b[i][j]);
+    }
+    printf("\n");
+ }
+
+ fclose(p2);
+
+ if(w1==w2 && h1==h2)
+ {
+  {
+   for(i=0;i<h1;i++)
+   {
+     for(j=0;j<w1;j++)
+     {
+       d[i][j]=(a[i][j]+b[i][j])/2;
+     }
+   }
+  }
+ 
+  printf("enter the output file name");
+  scanf("%s",file3);
+
+  p3=fopen(file3,"w");
+  fprintf(p3,"%s\n%d\t%d\n%d\n",c,w1,h1,M);
+ 
+  for(i=0;i<h1;i++)
+  {
+     for(j=0;j<w1;j++)
+     {
+      fprintf(p3, "%d\t", d[i][j]);
+     }
+  }
+ 
+  fclose(p3);
+ }
+ else
+ printf("two files are of not same size.so the program is closing");
+}
+
